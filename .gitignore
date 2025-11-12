@@ -1,1 +1,14 @@
+# Directorios de Python / Entorno Virtual
+venv/
+__pycache__/
+*.pyc
 
+# Datos/Archivos grandes generados
+/audios/
+/data/
+
+# Ejecutables
+ffmpeg.exe
+
+# Archivos de VS Code
+.vscode/
